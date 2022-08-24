@@ -14,7 +14,7 @@ website:
     
   sidebar:
     #logo: "images/openscapes_hex.png"
-    logo: "images/ROC_curvesbis.svg"
+    logo: "images/earthlogo.svg"
     pinned: true
     align: center
     tools: 
