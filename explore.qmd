@@ -22,7 +22,7 @@ Most of these are pages, but you'll see that "Quarto Workflows" has an arrow; it
 
 ### The website's repo
 
-Let's go to this website's GitHub repository (also called a "repo"), [**https://github.com/openscapes/quarto-website-tutorial**](https://github.com/openscapes/quarto-website-tutorial){.uri}. You can also click there from any page in this tutorial website by clicking the GitHub octocat icon underneath the Openscapes logo in the left navbar (click it holding command on Mac, or control on a PC to open it in a different tab in your browser).
+Let's go to this website's GitHub repository (also called a "repo"), [**https://github.com/chatard/quarto-website-tutorial**](https://github.com/openscapes/quarto-website-tutorial){.uri}. You can also click there from any page in this tutorial website by clicking the GitHub octocat icon underneath the Openscapes logo in the left navbar (click it holding command on Mac, or control on a PC to open it in a different tab in your browser).
 
 **Have a look at the filenames.** We can recognize the names of the webpages we've seen above, and they have red arrows marking them in the image below. You'll see the "quarto-workflows" folder and the rest in this site are `.qmd` files, which are plain text Quarto files that can combine Markdown text with code. `index.qmd` is the home page. If you click inside "quarto-workflows" you'll see a mix of filetypes!
 
