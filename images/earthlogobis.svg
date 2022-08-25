@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="51.003094mm"
+   height="34.723396mm"
+   viewBox="0 0 51.003093 34.723396"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (ef4d3fba62, 2022-07-19, custom)"
+   sodipodi:docname="earthlogobis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.0289025"
+     inkscape:cx="76.780842"
+     inkscape:cy="49.081424"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern3303"
+       patternTransform="matrix(0,-21.223935,21.223935,0,-161.84898,457.87966)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1"
+       inkscape:stockid="Stripes 1:1">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect2323" />
+    </pattern>
+    <linearGradient
+       id="linearGradient3311"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fcaf3e;stop-opacity:1;"
+         offset="0"
+         id="stop3309" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3185"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ef2929;stop-opacity:1;"
+         offset="0"
+         id="stop3183" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-103.28529,-135.75031)">
+    <g
+       id="g4771"
+       transform="matrix(0.89119318,0,0,0.89119318,11.846633,18.134433)">
+      <path
+         style="color:#000000;opacity:0.92;fill:url(#pattern3303);fill-opacity:1;stroke:none;stroke-width:1.96542;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 112.1681,151.45923 c 0,10.46513 8.5535,19.01448 19.01863,19.01448 10.46515,0 19.01451,-8.54935 19.01451,-19.01448 0,-10.46515 -8.54936,-19.01865 -19.01451,-19.01865 -10.46513,0 -19.01863,8.5535 -19.01863,19.01865 z m 6.28427,0 c 0,-7.06875 5.66563,-12.73436 12.73436,-12.73436 7.06875,0 12.73022,5.66561 12.73022,12.73436 0,7.06873 -5.66147,12.73022 -12.73022,12.73022 -7.06873,0 -12.73436,-5.66149 -12.73436,-12.73022 z"
+         id="path1280" />
+      <path
+         id="path1317"
+         style="color:#000000;opacity:0.92;fill:#fcaf3e;stroke-width:0.926042;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 103.28529,141.25729 h 4.49792 v 19.25981 h 15.17375 v 4.49792 h -19.67167 z" />
+      <path
+         id="path1319"
+         style="color:#000000;opacity:0.92;fill:#fce94f;stroke-width:0.926042;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 135.39212,134.79629 v 4.49792 h 19.25982 v 15.17375 h 4.49791 v -19.67167 z" />
+      <path
+         style="color:#000000;opacity:0.92;fill:#ef2929;stroke:none;stroke-width:0.926042;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 122.42531,150.55217 c 0,4.93083 4.03012,8.95898 8.96094,8.95898 4.93082,0 8.95899,-4.02815 8.95899,-8.95898 0,-4.93082 -4.02817,-8.96094 -8.95899,-8.96094 -4.93082,0 -8.96094,4.03012 -8.96094,8.96094 z m 2.96094,0 c 0,-3.33054 2.66945,-6 6,-6 3.33055,0 5.99805,2.66946 5.99805,6 0,3.33055 -2.6675,5.99805 -5.99805,5.99805 -3.33055,0 -6,-2.6675 -6,-5.99805 z"
+         id="path1321" />
+    </g>
+  </g>
+</svg>
