@@ -1,5 +1,5 @@
 ---
-title: "Making searchable documents with Quarto"
+title: "Making sharable documents with Quarto"
 subtitle: "Create open-source tutorials, onboarding docs, and much more"
 ---
 
