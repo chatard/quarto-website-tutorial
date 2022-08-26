@@ -1,30 +1,30 @@
-project: 
+project:
   type: website
-  
-website: 
+
+website:
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://chatard.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/chatard/quarto-website-tutorial 
+  title: 'Making sharable documents with Quarto'
+  site-url: 'https://chatard.github.io/quarto-website-tutorial'
+  repo-url: https://github.com/chatard/quarto-website-tutorial
   repo-actions: [edit, issue]
-  
+
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2022"
-    
+    right: 'This page is built with ❤️ and [Quarto](https://quarto.org/).'
+    left: '&copy; CC-By Openscapes, 2022'
+
   sidebar:
-    logo: "images/earthlogobibi.svg"
-    #pinned: true
+    logo: 'images/earthlogobibi.svg'
+    pinned: true
     align: center
-    tools: 
+    tools:
       - icon: github
         href: https://github.com/chatard/quarto-website-tutorial
-        text: "Quarto website tutorial"
+        text: 'Quarto website tutorial'
       - icon: twitter
         href: https://twitter.com/chatard
-        text: "Openscapes Twitter"         
+        text: 'Openscapes Twitter'
 
-    style: "floating"
+    style: 'floating'
     search: true
     collapse-level: 1
     contents:
@@ -32,27 +32,23 @@ website:
         text: Welcome
       - explore.qmd
       - section: quarto-workflows/index.qmd
-        contents: 
+        contents:
           - quarto-workflows/browser.md
           - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
+          - quarto-workflows/jupyter.md
       - learning-more.qmd
       - href: transition-from-rmarkdown.qmd
         text: Transition from Rmd
-
 
 format:
   html:
     theme:
       light: [flatly, theme, scss]
-      dark: [darkly, theme, scss]  
+      dark: [darkly, theme, scss]
     code-copy: true
     code-overflow: wrap
     toc: true
 
-
 filters:
   - include-files.lua
   - quarto
-
-  
