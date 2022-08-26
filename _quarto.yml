@@ -14,8 +14,8 @@ website:
     
   sidebar:
     logo: "images/earthlogobibi.svg"
-    pinned: true
-    align: left
+    #pinned: true
+    align: center
     tools: 
       - icon: github
         href: https://github.com/chatard/quarto-website-tutorial
