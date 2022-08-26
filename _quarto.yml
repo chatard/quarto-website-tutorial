@@ -19,9 +19,9 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+      #- icon: globe
+      #  href: https://openscapes.org
+      #  text: "Openscapes.org"
       - icon: github
         href: https://github.com/chatard/quarto-website-tutorial
         text: "Quarto website tutorial"
