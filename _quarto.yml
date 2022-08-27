@@ -13,16 +13,16 @@ website:
     left: '&copy; CC-By Openscapes, 2022'
 
   sidebar:
-    logo: 'images/earthlogobibi.png'
-    pinned: true
-    align: center
+    #logo: 'images/earthlogobibi.png'
+    #pinned: true
+    #align: center
     tools:
       - icon: github
         href: https://github.com/chatard/quarto-website-tutorial
         text: 'Quarto website tutorial'
       - icon: twitter
         href: https://twitter.com/chatard
-        text: 'Openscapes Twitter'
+        text: 'chatard Twitter'
 
     style: 'floating'
     search: true
