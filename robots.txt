@@ -1,1 +1,1 @@
-Sitemap: https://github.com/chatard/quarto-website-tutorial/sitemap.xml
+Sitemap: https://chatard.github.io/quarto-website-tutorial/sitemap.xml
