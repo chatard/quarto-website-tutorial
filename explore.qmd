@@ -1,8 +1,9 @@
 ---
 title-block-banner: true
-title-block-banner-color: "#b83e59"
+title-block-banner-color: "#f5faaa"
 title: Explore and setup
 subtitle: "website online and website repository"
+author: "Somebody"
 date: 2018-05-04
 date-format: short
 ---
