@@ -16,13 +16,13 @@ website:
     #logo: 'images/earthlogobibi.png'
     #pinned: true
     #align: center
-    tools:
-      - icon: github
-        href: https://github.com/chatard/quarto-website-tutorial
-        text: 'Quarto website tutorial'
-      - icon: twitter
-        href: https://twitter.com/chatard
-        text: 'chatard Twitter'
+    #tools:
+      #- icon: github
+        #href: https://github.com/chatard/quarto-website-tutorial
+        #text: 'Quarto website tutorial'
+      #- icon: twitter
+        #href: https://twitter.com/chatard
+        #text: 'chatard Twitter'
 
     style: 'floating'
     search: true
