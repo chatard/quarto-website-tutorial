@@ -1,6 +1,6 @@
 ---
 title-block-banner: images/faropeniscola.jpg
-title-block-banner-color: "#f5faaa"
+title-block-banner-color: "#4762a1"
 title: Explore and setup
 subtitle: "website online and website repository"
 author: "Somebody"
