@@ -1,5 +1,5 @@
 ---
-title-block-banner: "#4e6962"
+title-block-banner: images/abstract1.jpeg
 title-block-banner-color: "#f5faaa"
 title: Explore and setup
 subtitle: "website online and website repository"
