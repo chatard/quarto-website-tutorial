@@ -1,5 +1,5 @@
 ---
-title-block-banner: images/Villanovahouses.jpg
+title-block-banner: images/Villanovahouses65.jpg
 title-block-banner-color: "#4762a1"
 title: Quarto workflows
 ---
