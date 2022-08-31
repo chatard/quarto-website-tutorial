@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chatard.github.io/quarto-website-tutorial/index.html</loc>
-    <lastmod>2022-08-31T14:21:50.441Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chatard.github.io/quarto-website-tutorial/quarto-workflows/jupyter.html</loc>
-    <lastmod>2022-08-31T14:21:53.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chatard.github.io/quarto-website-tutorial/quarto-workflows/index.html</loc>
-    <lastmod>2022-08-31T14:21:53.478Z</lastmod>
+    <lastmod>2022-08-31T15:19:57.714Z</lastmod>
   </url>
   <url>
     <loc>https://chatard.github.io/quarto-website-tutorial/quarto-workflows/browser.html</loc>
-    <lastmod>2022-08-31T14:21:53.902Z</lastmod>
+    <lastmod>2022-08-31T15:19:59.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chatard.github.io/quarto-website-tutorial/quarto-workflows/jupyter.html</loc>
+    <lastmod>2022-08-31T15:19:59.962Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chatard.github.io/quarto-website-tutorial/quarto-workflows/index.html</loc>
+    <lastmod>2022-08-31T15:20:00.490Z</lastmod>
   </url>
   <url>
     <loc>https://chatard.github.io/quarto-website-tutorial/quarto-workflows/rstudio.html</loc>
-    <lastmod>2022-08-31T14:21:54.374Z</lastmod>
+    <lastmod>2022-08-31T15:20:01.094Z</lastmod>
   </url>
   <url>
     <loc>https://chatard.github.io/quarto-website-tutorial/learning-more.html</loc>
-    <lastmod>2022-08-31T14:21:54.754Z</lastmod>
+    <lastmod>2022-08-31T15:20:01.530Z</lastmod>
   </url>
   <url>
     <loc>https://chatard.github.io/quarto-website-tutorial/transition-from-rmarkdown.html</loc>
-    <lastmod>2022-08-31T14:21:55.262Z</lastmod>
+    <lastmod>2022-08-31T15:20:02.142Z</lastmod>
   </url>
   <url>
     <loc>https://chatard.github.io/quarto-website-tutorial/explore.html</loc>
-    <lastmod>2022-08-31T14:21:55.814Z</lastmod>
+    <lastmod>2022-08-31T15:20:02.790Z</lastmod>
   </url>
 </urlset>
