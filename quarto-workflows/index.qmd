@@ -1,5 +1,5 @@
 ---
-title-block-banner: "#d7e6fc"
+title-block-banner: "#6c2b1b"
 title-block-banner-color: "#ffffff"
 title: Quarto workflows
 subtitle: Working with Quarto
