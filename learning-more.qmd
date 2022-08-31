@@ -1,6 +1,6 @@
 ---
-title-block-banner: images/faropeniscola.jpg
-title-block-banner-color: "#000000"
+title-block-banner: "#ffffff"
+title-block-banner-color: "#f0751d"
 title: Learning more
 ---
 
