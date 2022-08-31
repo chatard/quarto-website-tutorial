@@ -1,6 +1,6 @@
 ---
-title-block-banner: "#6c2b1b"
-title-block-banner-color: "#ffffff"
+title-block-banner: "#ffffff"
+title-block-banner-color: "#6c2b1b"
 title: Quarto workflows
 subtitle: Working with Quarto
 ---
