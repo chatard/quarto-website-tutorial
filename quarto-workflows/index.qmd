@@ -1,6 +1,6 @@
 ---
-title-block-banner: images/Villanovahouses65.jpg
-title-block-banner-color: "#7d2116"
+title-block-banner: "#d7e6fc"
+title-block-banner-color: "#ffffff"
 title: Quarto workflows
 subtitle: Working with Quarto
 ---

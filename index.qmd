@@ -1,6 +1,6 @@
 ---
-title-block-banner: "#d1e1ff"
-title-block-banner-color: "#095fb0"
+title-block-banner: "#ffffff"
+title-block-banner-color: "#000000"
 title: "Making shareable documents with Quarto"
 subtitle: "Create open-source tutorials, onboarding docs, and much more"
 ---
