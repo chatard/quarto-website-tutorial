@@ -1,5 +1,5 @@
 ---
-title-block-banner: images/browser.jpg
+title-block-banner: images/faropeniscola.jpg
 title-block-banner-color: "#000000"
 title: Learning more
 ---
