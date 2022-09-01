@@ -1,6 +1,6 @@
 ---
-title-block-banner: "#ffffff"
-title-block-banner-color: "#000000"
+title-block-banner: images/faropeniscola.jpg
+title-block-banner-color: "#4762a1"
 title: "Making shareable documents with Quarto"
 subtitle: "Create open-source tutorials, onboarding docs, and much more"
 ---
